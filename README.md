@@ -2,7 +2,11 @@
 
 <img src="images/baltimore.jpeg" width="900" height="300" />
 
-Tools: plotly, pandas, matplotlib
+Tools: plotly, pandas, matplotlib, seaborn
+
+filename | description
+------------ | -------------
+[Baltimore_Crime_Analysis.ipynb](Baltimore_Crime_Analysis.ipynb)| Exploratory Data Analysis of Baltimore Crime Data from 2012-2016.
 
 In this project, I am going to explore more about crime in Baltimore and try to answer the following questions:
 
