@@ -4,6 +4,8 @@
 
 Tools: plotly, pandas, matplotlib, seaborn
 
+Data for this project was downloaded from [here](https://www.kaggle.com/sohier/crime-in-baltimore).
+
 filename | description
 ------------ | -------------
 [Baltimore_Crime_Analysis.ipynb](Baltimore_Crime_Analysis.ipynb)| Exploratory Data Analysis of Baltimore Crime Data from 2012-2016.
