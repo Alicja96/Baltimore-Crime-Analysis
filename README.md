@@ -8,7 +8,7 @@ Data for this project was downloaded from [here](https://www.kaggle.com/sohier/c
 
 filename | description
 ------------ | -------------
-[Baltimore_Crime_Analysis.ipynb](Baltimore_Crime_Analysis.ipynb)| Exploratory Data Analysis of Baltimore Crime Data from 2012-2016.
+[Baltimore Crime Analysis.ipynb](Baltimore Crime Analysis.ipynb)| Exploratory Data Analysis of Baltimore Crime Data from 2012-2016.
 
 In this project, I am going to explore more about crime in Baltimore and try to answer the following questions:
 
